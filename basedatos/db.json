@@ -1,0 +1,43 @@
+{
+  "categorias": [
+    {
+      "name": "FINANZAS",
+      "id": 2,
+      "encargado": "JOSE LINARES"
+    },
+    {
+      "name": "LEGAL",
+      "id": 3,
+      "encargado": "JUAN PEREZ"
+    },
+    {
+      "name": "INFORMATICA",
+      "id": 4,
+      "encargado": "FIORELLA SOSA"
+    }
+  ],
+  "activos": [
+    {
+      "tipo": "laptop",
+      "marca": "HP",
+      "modelo": "PAVILLON 360",
+      "estado": "bueno"
+      
+    },
+    {
+      "tipo": "laptop",
+      "marca": "toshiva",
+      "modelo": "navi",
+      "estado": "usado"
+      
+    },
+    {
+      "tipo": "pc",
+      "marca": "rambo",
+      "modelo": "i 7",
+      "estado": "bueno"
+      
+    }
+    
+  ]
+}
